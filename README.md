@@ -1,4 +1,4 @@
-[![MasterHead](https://document-export.canva.com/OkTMo/DAE-aBOkTMo/1/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220419%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220419T132002Z&X-Amz-Expires=71359&X-Amz-Signature=067f6ce4285d82814d4f5684a4a26cfb3ce13233cb5362e77552d8cbf4b1c6f8&X-Amz-SignedHeaders=host&response-expires=Wed%2C%2020%20Apr%202022%2009%3A09%3A21%20GMT)](https://rishavchanda.io)
+[![MasterHead](https://i.ibb.co/5k2Rbzy/4-Powerful-technologies-in-1-MERN-STACK-1024x1024.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Prathyu Prasad</h1>
 <h3 align="center">An aspiring software developer from India</h3>
