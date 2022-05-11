@@ -24,7 +24,7 @@
 <a href="https://twitter.com/prathyuprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathyuprasad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prathyu-prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathyu-prasad" height="30" width="40" /></a>
 <a href="https://medium.com/@prathyuprasad116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prathyuprasad116" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prathyuprasad04669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathyuprasad04669" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/prathyuprasad04669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathyuprasad04669" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
