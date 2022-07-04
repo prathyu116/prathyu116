@@ -17,7 +17,7 @@
 - 💬 Ask me about **javascript,react,nodejs,mongodb,DSA**
 
 - 📫 How to reach me **prathyuprasad116@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xWTWGeQZ4BmeeiqQLcV9KVs_OlD3vZDp/view](https://drive.google.com/file/d/1xWTWGeQZ4BmeeiqQLcV9KVs_OlD3vZDp/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PLI9AhYRznogvzhxAtuepvg9AqDyCur-/view?usp=sharing](https://drive.google.com/file/d/1PLI9AhYRznogvzhxAtuepvg9AqDyCur-/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
