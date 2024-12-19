@@ -28,7 +28,7 @@
 ## 📫 Let's Connect!  
 - 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)  
 - 🌐 [Portfolio](https://your-portfolio-link.com)  
-- 📧 Email: your.email@example.com 
+- 📧 Email: prathyuprasad116@gmail.com
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/145Byow71fH1CkRoscvaXs9G3aOMnpcdC/view?usp=sharing)
 - 🧑‍💻 [LeetCode](https://leetcode.com/u/prathyuprasad04669/)  
 
