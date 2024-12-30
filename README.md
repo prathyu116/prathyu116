@@ -27,9 +27,9 @@
 
 ## 📫 Let's Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/prathyu-prasad/)  
-- 🌐 [Portfolio](https://new-portfolio-rho-seven-99.vercel.app/#/)  
+- 🌐 [Portfolio](https://prathyu.vercel.app/)  
 - 📧 Email: prathyuprasad116@gmail.com
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/145Byow71fH1CkRoscvaXs9G3aOMnpcdC/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bbqAg2IoiAGsX7kVWMMSQh-leZ7HO2R3/view?usp=sharing)
 - 🧑‍💻 [LeetCode](https://leetcode.com/u/prathyuprasad04669/)  
 
 
