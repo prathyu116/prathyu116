@@ -29,7 +29,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/prathyu-prasad/)  
 - 🌐 [Portfolio](https://prathyu.vercel.app/)  
 - 📧 Email: prathyuprasad116@gmail.com
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BcntsNdRyIoMHuXWkQg7PhWsF2aQsQIu/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dsCaWuqOyG7GSpn3guB2wbiLQh6b4vos/view)
 - 🧑‍💻 [LeetCode](https://leetcode.com/u/prathyuprasad04669/)  
 
 
